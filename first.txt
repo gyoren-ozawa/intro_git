@@ -1,2 +1,5 @@
 Gitの練習
 ステップ１
+・git add
+・git commit
+・git rm
